@@ -2,6 +2,9 @@ from sys import stdin
 import sys
 sys.setrecursionlimit(10**6)
 
+"""
+괄호에 대한 기본적인 스택 문제
+"""
 def parenthesis():
     T = int(stdin.readline())
 
