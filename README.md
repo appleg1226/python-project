@@ -15,4 +15,4 @@
 - 최단거리
 - BFS, DFS
 - Union-Find, MST
-- 기타 중요한 문제들
+- 기타
